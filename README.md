@@ -12,3 +12,9 @@ Changes made by Jay (01.04.2022)
 151-200 friends
 
 201-300 mix
+
+301-350 beauty_nature
+
+351-400 boys_bikes
+
+401-500 girls
