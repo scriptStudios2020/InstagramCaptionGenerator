@@ -1,4 +1,4 @@
-export const captions = [
+[
   {
     "caption": "I just want someone to look at me the way I look at food.",
     "url": "https://raw.githubusercontent.com/scriptStudios2020/InstagramCaptionGenerator/main/couple_pictures/51.jpg"
